@@ -1,8 +1,11 @@
 #include <TFile.h>
 #include <TTree.h>
 #include <TString.h>
+#include <TH1.h>
+#include <TCanvas.h>
+#include <iostream>
 
-
+using namespace std;
 
 void example(){
 
